@@ -1,1 +1,4 @@
 node_modules/
+
+# ignore json file type
+*.json
